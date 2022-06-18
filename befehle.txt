@@ -1,0 +1,13 @@
+npm init -y  //alle default yes
+
+npm i express ejs express-ejs-layouts
+//i für install packages
+//express server
+//Verwenden von EJS zur Vorlagenerstellung Ihrer Node-Anwendung. Embedded JavaScript templates
+//allows to dreate a layout file für html
+
+npm i --save-dev nodemon
+//develpment depandancy
+
+//serverstarten
+npm run devStart
